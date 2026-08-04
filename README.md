@@ -1,0 +1,1 @@
+Projeto acadêmico desenvolvido durante a **Residência Tecnológica em Desenvolvimento de Software – Bolsa Futuro Digital (UFRGS e Instituto Hardware BR)**. A aplicação foi criada para consolidar conceitos fundamentais de Desenvolvimento Front-End, explorando a estruturação de páginas, semântica HTML e estilização com CSS.
